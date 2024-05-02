@@ -1,0 +1,231 @@
+{
+    "chordKeyboard": [
+        {
+            "name": "7b",
+            "color": "--color-1",
+            "chords": [
+                "Cb",
+                "Dbm",
+                "Ebm",
+                "Fb",
+                "Gb",
+                "Abm",
+                "Bb°"
+            ]
+        },
+        {
+            "name": "6b",
+            "color": "--color-1",
+            "chords": [
+                "Gb",
+                "Abm",
+                "Bbm",
+                "Cb",
+                "Db",
+                "Ebm",
+                "F°"
+            ]
+        },
+        {
+            "name": "5b",
+            "color": "--color-1",
+            "chords": [
+                "Db",
+                "Ebm",
+                "Fm",
+                "Gb",
+                "Ab",
+                "Bbm",
+                "C°"
+            ]
+        },
+        {
+            "name": "4b",
+            "color": "--color-1",
+            "chords": [
+                "Ab",
+                "Bbm",
+                "Cm",
+                "Db",
+                "Eb",
+                "Fm",
+                "G°"
+            ]
+        },
+        {
+            "name": "3b",
+            "color": "--color-1",
+            "chords": [
+                "Eb",
+                "Fm",
+                "Gm",
+                "Ab",
+                "Bb",
+                "Cm",
+                "D°"
+            ]
+        },
+        {
+            "name": "2b",
+            "color": "--color-1",
+            "chords": [
+                "Bb",
+                "Cm",
+                "Dm",
+                "Eb",
+                "F",
+                "Gm",
+                "A°"
+            ]
+        },
+        {
+            "name": "1b",
+            "color": "--color-1",
+            "chords": [
+                "F",
+                "Gm",
+                "Am",
+                "Bb",
+                "C",
+                "Dm",
+                "E°"
+            ]
+        },
+        {
+            "name": "♮",
+            "color": "--color-1",
+            "chords": [
+                ["C", "Csus2", "Csus4", "C6", "CM7"],
+                ["Dm", "Dsus2", "Dsus4", "Dm6", "Dm7", "D7sus4"],
+                ["Em", "Esus4", "Em7", "E7sus4"],
+                ["F", "Fsus2", "F6", "FM7"],
+                ["G", "Gsus2", "Gsus4", "G6", "G7", "G7sus4"],
+                ["Am", "Asus2", "Asus4", "Am7", "A7sus4"],
+                ["B°", "Bm7b5"]
+            ]
+        },
+        {
+            "name": "1#",
+            "color": "--color-1",
+            "chords": [
+                "G",
+                "Am",
+                "Bm",
+                "C",
+                "D",
+                "Em",
+                "F#°"
+            ]
+        },
+        {
+            "name": "2#",
+            "color": "--color-1",
+            "chords": [
+                "D",
+                "Em",
+                "F#m",
+                "G",
+                "A",
+                "Bm",
+                "C#°"
+            ]
+        },
+        {
+            "name": "3#",
+            "color": "--color-1",
+            "chords": [
+                "A",
+                "Bm",
+                "C#m",
+                "D",
+                "E",
+                "F#m",
+                "G#°"
+            ]
+        },
+        {
+            "name": "4#",
+            "color": "--color-1",
+            "chords": [
+                "E",
+                "F#m",
+                "G#m",
+                "A",
+                "B",
+                "C#m",
+                "D#°"
+            ]
+        },
+        {
+            "name": "5#",
+            "color": "--color-1",
+            "chords": [
+                "B",
+                "C#m",
+                "D#m",
+                "E",
+                "F#",
+                "G#m",
+                "A#°"
+            ]
+        },
+        {
+            "name": "6#",
+            "color": "--color-1",
+            "chords": [
+                "F#",
+                "G#m",
+                "A#m",
+                "B",
+                "C#",
+                "D#m",
+                "E#°"
+            ]
+        },
+        {
+            "name": "7#",
+            "color": "--color-1",
+            "chords": [
+                "C#",
+                "D#m",
+                "E#m",
+                "F#",
+                "G#",
+                "A#m",
+                "B#°"
+            ]
+        },
+        {
+            "name": "all",
+            "color": "--color-3",
+            "chords": [
+                "C°",
+                "Cm",
+                "Csus2",
+                "C",
+                "Csus4",
+                "C+",
+                "C°7",
+                "Cm7b5",
+                "Cm7",
+                "Cm6",
+                "CmM7",
+                "C7",
+                "C7sus4",
+                "C6",
+                "CM7"
+            ]
+        },
+        {
+            "name": "test",
+            "color": "--color-2",
+            "chords": [
+                "Eb°7",
+                "G#+",
+                "B##sus4",
+                "Abb7sus4",
+                "Cbm7b5"
+            ]
+        }
+    ]
+}

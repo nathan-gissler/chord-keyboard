@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Piano",
+        "id": "acoustic_grand_piano"
+    },
+    {
+        "name": "Organ",
+        "id": "church_organ"
+    },
+    {
+        "name": "Violin",
+        "id": "violin"
+    },
+    {
+        "name": "Trumpet",
+        "id": "trumpet"
+    },
+    {
+        "name": "Trombone",
+        "id": "trombone"
+    },
+    {
+        "name": "Saxophone",
+        "id": "alto_sax"
+    }
+]
